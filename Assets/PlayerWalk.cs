@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class PlayerWalk : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Animator _animator;
+// Start is called before the first frame update
     void Start()
     {
         
@@ -16,7 +17,7 @@ public class PlayerWalk : MonoBehaviour
         float speed = .5f;
         float ts = Time.fixedDeltaTime;
         Vector3 p = transform.position;
-
+        _animator.SetBool("walkLeft", Input.GetKey(KeyCode.LeftArrow));
         if (Input.GetKey(KeyCode.LeftArrow))
 		{
 			p.x -= speed * ts;

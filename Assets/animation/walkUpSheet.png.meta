@@ -20,6 +20,24 @@ TextureImporter:
   - first:
       213: 1266862742734405010
     second: walkUpSheet_5
+  - first:
+      213: 4566379249148860029
+    second: walkUpSheet_0
+  - first:
+      213: -1747803344808205687
+    second: walkUpSheet_1
+  - first:
+      213: -730302714071971495
+    second: walkUpSheet_2
+  - first:
+      213: 3095407177016304086
+    second: walkUpSheet_3
+  - first:
+      213: -882387738847258398
+    second: walkUpSheet_4
+  - first:
+      213: -8042713003681033099
+    second: walkUpSheet_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -107,30 +125,9 @@ TextureImporter:
       name: walkUpSheet_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 0
         y: 0
-        width: 9
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa54d5c7959985260800000000000000
-      internalID: 7086582623285101994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walkUpSheet_1
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 0
-        width: 9
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -139,8 +136,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e955983a60102200800000000000000
-      internalID: 153140435732486632
+      spriteID: d769b3fbbb90f5f30800000000000000
+      internalID: 4566379249148860029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkUpSheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a77f3e1e8eb7e0800000000000000
+      internalID: -1747803344808205687
       vertices: []
       indices: 
       edges: []
@@ -149,10 +167,10 @@ TextureImporter:
       name: walkUpSheet_2
       rect:
         serializedVersion: 2
-        x: 75
+        x: 64
         y: 0
-        width: 9
-        height: 31
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e070fc7f6c81ecbc0800000000000000
-      internalID: -3761041395967654130
+      spriteID: 9598c350d817dd5f0800000000000000
+      internalID: -730302714071971495
       vertices: []
       indices: 
       edges: []
@@ -170,10 +188,10 @@ TextureImporter:
       name: walkUpSheet_3
       rect:
         serializedVersion: 2
-        x: 107
-        y: 1
-        width: 9
-        height: 31
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +199,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f10a9259814175940800000000000000
-      internalID: 5284714783556870175
+      spriteID: 6d160456d6815fa20800000000000000
+      internalID: 3095407177016304086
       vertices: []
       indices: 
       edges: []
@@ -191,10 +209,10 @@ TextureImporter:
       name: walkUpSheet_4
       rect:
         serializedVersion: 2
-        x: 139
-        y: 1
-        width: 9
-        height: 30
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,8 +220,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70a6fe0a95c99af60800000000000000
-      internalID: 8046134118040168967
+      spriteID: 2e859dfc60121c3f0800000000000000
+      internalID: -882387738847258398
       vertices: []
       indices: 
       edges: []
@@ -212,10 +230,10 @@ TextureImporter:
       name: walkUpSheet_5
       rect:
         serializedVersion: 2
-        x: 171
+        x: 160
         y: 0
-        width: 9
-        height: 29
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,8 +241,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29d7cdfc3fcc49110800000000000000
-      internalID: 1266862742734405010
+      spriteID: 5745d21a22b826090800000000000000
+      internalID: -8042713003681033099
       vertices: []
       indices: 
       edges: []

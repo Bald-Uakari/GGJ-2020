@@ -11,7 +11,7 @@ public class EnemyPath : MonoBehaviour
      Transform targetWayPoint;
  
      public float speed = 4f;
- 
+     
      // Use this for initialization
      void Start () {
  
@@ -30,7 +30,7 @@ public class EnemyPath : MonoBehaviour
  
      void walk(){
          // rotate towards the target
-        //  transform.forward = Vector3.RotateTowards(transform.forward, targetWayPoint.position - transform.position, speed*Time.deltaTime, 0.0f);
+         // transform.forward = Vector3.RotateTowards(transform.forward, targetWayPoint.position - transform.position, speed*Time.deltaTime, 0.0f);
  
          // move towards the target
          transform.position = Vector3.MoveTowards(transform.position, targetWayPoint.position,   speed*Time.deltaTime);
@@ -41,4 +41,17 @@ public class EnemyPath : MonoBehaviour
              targetWayPoint = wayPointList[currentWayPoint];
          }
      } 
+
+     void OnTriggerEnter2D(Collider2D other){
+         Debug.Log("Ontrigger happened");
+         if (other.tag =="dam") {
+            speed = 0;
+         }
+
+         if (other.tag == "base")
+         {
+             Destroy(gameObject);
+         }
+     }
+
 }

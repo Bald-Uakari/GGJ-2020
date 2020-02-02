@@ -1,43 +1,34 @@
 fileFormatVersion: 2
-guid: 8a5a23e0888df7d4cac2d5b9faaf7549
+guid: 4d74cc6a82957ff44b023c754de33fd7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 700001233585562479
-    second: walkSheet_0
+      213: -6044034689075288584
+    second: trashSheet_0
   - first:
-      213: -2071846255772570929
-    second: walkSheet_1
+      213: 2908679023544864167
+    second: trashSheet_1
   - first:
-      213: -2756659289290445179
-    second: walkSheet_2
+      213: 212481766870097580
+    second: trashSheet_2
   - first:
-      213: -6560862742991661996
-    second: walkSheet_3
+      213: 6828451350677681164
+    second: trashSheet_3
   - first:
-      213: 7974639078863570168
-    second: walkSheet_4
+      213: -4101206006455760632
+    second: trashSheet_4
   - first:
-      213: 7643478348070985137
-    second: walkSheet_5
+      213: -7588648054912835440
+    second: trashSheet_5
   - first:
-      213: -95114207858902277
-    second: walkSheet_0
+      213: -8899611490388098298
+    second: trashSheet_6
   - first:
-      213: 456929785808093441
-    second: walkSheet_1
+      213: -8104737614839874055
+    second: trashSheet_7
   - first:
-      213: -8100690237890520609
-    second: walkSheet_2
-  - first:
-      213: 4770050831907322442
-    second: walkSheet_3
-  - first:
-      213: 7259150255968543337
-    second: walkSheet_4
-  - first:
-      213: -125499012294153653
-    second: walkSheet_5
+      213: -4284919895405073472
+    second: trashSheet_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -77,11 +68,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 0
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +87,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -108,7 +99,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -120,7 +111,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -134,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walkSheet_0
+      name: trashSheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +139,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfa3a73c1261eaef0800000000000000
-      internalID: -95114207858902277
+      spriteID: 8f5678319764f1ca0800000000000000
+      internalID: -6044034689075288584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walkSheet_1
+      name: trashSheet_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad850c3924bd5820800000000000000
+      internalID: 2908679023544864167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashSheet_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1a8b8a03e2f200800000000000000
+      internalID: 212481766870097580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashSheet_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04fd23235883ce50800000000000000
+      internalID: 6828451350677681164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashSheet_4
       rect:
         serializedVersion: 2
         x: 32
         y: 0
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,20 +223,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10103622837575600800000000000000
-      internalID: 456929785808093441
+      spriteID: 8098182cdd69517c0800000000000000
+      internalID: -4101206006455760632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walkSheet_2
+      name: trashSheet_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902679ecc4bfa690800000000000000
+      internalID: -7588648054912835440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashSheet_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ce6c608a3e7480800000000000000
+      internalID: -8899611490388098298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashSheet_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf8bd7410368f80800000000000000
+      internalID: -8104737614839874055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashSheet_8
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,71 +307,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd99f0fd521949f80800000000000000
-      internalID: -8100690237890520609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walkSheet_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4a746475ff923240800000000000000
-      internalID: 4770050831907322442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walkSheet_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 962e03a72beadb460800000000000000
-      internalID: 7259150255968543337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walkSheet_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4a6b803053224ef0800000000000000
-      internalID: -125499012294153653
+      spriteID: 0cb606fbe08e884c0800000000000000
+      internalID: -4284919895405073472
       vertices: []
       indices: 
       edges: []
@@ -262,7 +316,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 8b8225aa04587b742baf06805a934bef
     internalID: 0
     vertices: []
     indices: 

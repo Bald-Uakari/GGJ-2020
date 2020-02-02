@@ -15,7 +15,10 @@ public class PlayerWalk : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        float speed = .5f;
+        const float fps = 12f;
+        const float frames = 6f;
+        float speed = fps / frames;
+
         float ts = Time.fixedDeltaTime;
         Vector3 p = transform.position;
         Vector3 s = transform.localScale;

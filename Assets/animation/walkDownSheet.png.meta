@@ -20,6 +20,24 @@ TextureImporter:
   - first:
       213: 158028845933065271
     second: walkDownSheet_5
+  - first:
+      213: -8972282037636453881
+    second: walkDownSheet_0
+  - first:
+      213: -3872975585797920439
+    second: walkDownSheet_1
+  - first:
+      213: -8092859852343611318
+    second: walkDownSheet_2
+  - first:
+      213: -4454839664446264399
+    second: walkDownSheet_3
+  - first:
+      213: -3000146496969690357
+    second: walkDownSheet_4
+  - first:
+      213: 861284843071152547
+    second: walkDownSheet_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -107,19 +125,19 @@ TextureImporter:
       name: walkDownSheet_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 0
         y: 0
-        width: 9
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2be1ca5759dbf7480800000000000000
-      internalID: -8899185889038819662
+      spriteID: 70aaf02260d0c7380800000000000000
+      internalID: -8972282037636453881
       vertices: []
       indices: 
       edges: []
@@ -128,19 +146,19 @@ TextureImporter:
       name: walkDownSheet_1
       rect:
         serializedVersion: 2
-        x: 43
+        x: 32
         y: 0
-        width: 9
+        width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9da54a6532aaa6a0800000000000000
-      internalID: -6437154367072784994
+      spriteID: 94921c0893d604ac0800000000000000
+      internalID: -3872975585797920439
       vertices: []
       indices: 
       edges: []
@@ -149,19 +167,19 @@ TextureImporter:
       name: walkDownSheet_2
       rect:
         serializedVersion: 2
-        x: 75
+        x: 64
         y: 0
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e07b64f1f7fd83a40800000000000000
-      internalID: 5348270294581032718
+      spriteID: a40f90497d260bf80800000000000000
+      internalID: -8092859852343611318
       vertices: []
       indices: 
       edges: []
@@ -170,19 +188,19 @@ TextureImporter:
       name: walkDownSheet_3
       rect:
         serializedVersion: 2
-        x: 107
-        y: 1
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebdccaa4b38656b10800000000000000
-      internalID: 1974098615537028542
+      spriteID: 1bb2c5d8dea3d22c0800000000000000
+      internalID: -4454839664446264399
       vertices: []
       indices: 
       edges: []
@@ -191,19 +209,19 @@ TextureImporter:
       name: walkDownSheet_4
       rect:
         serializedVersion: 2
-        x: 139
-        y: 1
-        width: 9
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18d3212631e48fb80800000000000000
-      internalID: -8360846863056618111
+      spriteID: b033dfd08a65d56d0800000000000000
+      internalID: -3000146496969690357
       vertices: []
       indices: 
       edges: []
@@ -212,19 +230,19 @@ TextureImporter:
       name: walkDownSheet_5
       rect:
         serializedVersion: 2
-        x: 171
+        x: 160
         y: 0
-        width: 9
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 734fa1ae56e613200800000000000000
-      internalID: 158028845933065271
+      spriteID: 3a12fa16006e3fb00800000000000000
+      internalID: 861284843071152547
       vertices: []
       indices: 
       edges: []

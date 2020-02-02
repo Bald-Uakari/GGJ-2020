@@ -32,6 +32,36 @@ TextureImporter:
   - first:
       213: -7716990360769726823
     second: tossSheet_9
+  - first:
+      213: -4294113388606831136
+    second: tossSheet_0
+  - first:
+      213: 457156160980450817
+    second: tossSheet_1
+  - first:
+      213: 4223191964333518414
+    second: tossSheet_2
+  - first:
+      213: 4338325542759031224
+    second: tossSheet_3
+  - first:
+      213: 1951815648137362332
+    second: tossSheet_4
+  - first:
+      213: 8815825304684890429
+    second: tossSheet_5
+  - first:
+      213: -6593527778369115140
+    second: tossSheet_6
+  - first:
+      213: -89054479636592299
+    second: tossSheet_7
+  - first:
+      213: 4028985920426440974
+    second: tossSheet_8
+  - first:
+      213: -7198269193239779850
+    second: tossSheet_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -119,19 +149,19 @@ TextureImporter:
       name: tossSheet_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 0
         y: 0
-        width: 9
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6af284ea9f9f0180800000000000000
-      internalID: -9146916830558619030
+      spriteID: 0e547decf9e3864c0800000000000000
+      internalID: -4294113388606831136
       vertices: []
       indices: 
       edges: []
@@ -140,19 +170,19 @@ TextureImporter:
       name: tossSheet_1
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 0
-        width: 13
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9260695307b443a60800000000000000
-      internalID: 7652824612116760105
+      spriteID: 10efe163b15285600800000000000000
+      internalID: 457156160980450817
       vertices: []
       indices: 
       edges: []
@@ -161,19 +191,19 @@ TextureImporter:
       name: tossSheet_2
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 0
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 977270804b564a820800000000000000
-      internalID: 2928577481600870265
+      spriteID: e4e226457bacb9a30800000000000000
+      internalID: 4223191964333518414
       vertices: []
       indices: 
       edges: []
@@ -182,19 +212,19 @@ TextureImporter:
       name: tossSheet_3
       rect:
         serializedVersion: 2
-        x: 101
+        x: 96
         y: 0
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71a07c0120ecdf850800000000000000
-      internalID: 6412507952712190487
+      spriteID: 8b1e7208814d43c30800000000000000
+      internalID: 4338325542759031224
       vertices: []
       indices: 
       edges: []
@@ -203,19 +233,19 @@ TextureImporter:
       name: tossSheet_4
       rect:
         serializedVersion: 2
-        x: 134
+        x: 128
         y: 0
-        width: 20
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dead6f194c598df90800000000000000
-      internalID: -6928623355214505235
+      spriteID: c9bb646adfd361b10800000000000000
+      internalID: 1951815648137362332
       vertices: []
       indices: 
       edges: []
@@ -224,19 +254,19 @@ TextureImporter:
       name: tossSheet_5
       rect:
         serializedVersion: 2
-        x: 166
+        x: 160
         y: 0
-        width: 21
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3b1478cd32c9e650800000000000000
-      internalID: 6262750327447231295
+      spriteID: d3984a7086a185a70800000000000000
+      internalID: 8815825304684890429
       vertices: []
       indices: 
       edges: []
@@ -245,19 +275,19 @@ TextureImporter:
       name: tossSheet_6
       rect:
         serializedVersion: 2
-        x: 198
+        x: 192
         y: 0
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ad6c46ec60c438e0800000000000000
-      internalID: -1714533984168546909
+      spriteID: cfb63a96b651f74a0800000000000000
+      internalID: -6593527778369115140
       vertices: []
       indices: 
       edges: []
@@ -266,19 +296,19 @@ TextureImporter:
       name: tossSheet_7
       rect:
         serializedVersion: 2
-        x: 230
+        x: 224
         y: 0
-        width: 19
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a10dd84f9a27c8e90800000000000000
-      internalID: -7022111644699471846
+      spriteID: 5598a9f2c6d93cef0800000000000000
+      internalID: -89054479636592299
       vertices: []
       indices: 
       edges: []
@@ -287,19 +317,19 @@ TextureImporter:
       name: tossSheet_8
       rect:
         serializedVersion: 2
-        x: 262
+        x: 256
         y: 0
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f880d4a8ca9c556e0800000000000000
-      internalID: -1849350329073858417
+      spriteID: e0971102955d9e730800000000000000
+      internalID: 4028985920426440974
       vertices: []
       indices: 
       edges: []
@@ -308,19 +338,19 @@ TextureImporter:
       name: tossSheet_9
       rect:
         serializedVersion: 2
-        x: 297
+        x: 288
         y: 0
-        width: 13
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 996f43b372eb7e490800000000000000
-      internalID: -7716990360769726823
+      spriteID: 6f52e4b8e4c9a1c90800000000000000
+      internalID: -7198269193239779850
       vertices: []
       indices: 
       edges: []

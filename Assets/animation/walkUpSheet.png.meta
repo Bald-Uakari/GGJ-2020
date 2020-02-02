@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 8931e9e7cafa4b44d96a1f8dc78ce76b
+guid: f68d7f026d64649a7843add0fd98d75d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5106865845928226225
-    second: idleSheet_0
+      213: 7086582623285101994
+    second: walkUpSheet_0
   - first:
-      213: 573650141147589015
-    second: idleSheet_1
+      213: 153140435732486632
+    second: walkUpSheet_1
   - first:
-      213: 7426119422013167257
-    second: idleSheet_2
+      213: -3761041395967654130
+    second: walkUpSheet_2
   - first:
-      213: 2353226322433143157
-    second: idleSheet_3
+      213: 5284714783556870175
+    second: walkUpSheet_3
   - first:
-      213: 6238629481266811871
-    second: idleSheet_4
+      213: 8046134118040168967
+    second: walkUpSheet_4
   - first:
-      213: 5044841640540058727
-    second: idleSheet_5
+      213: 1266862742734405010
+    second: walkUpSheet_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idleSheet_0
+      name: walkUpSheet_0
       rect:
         serializedVersion: 2
         x: 11
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f429fd90294c029b0800000000000000
-      internalID: -5106865845928226225
+      spriteID: aa54d5c7959985260800000000000000
+      internalID: 7086582623285101994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idleSheet_1
+      name: walkUpSheet_1
       rect:
         serializedVersion: 2
         x: 43
         y: 0
         width: 9
-        height: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 799647893c306f700800000000000000
-      internalID: 573650141147589015
+      spriteID: 8e955983a60102200800000000000000
+      internalID: 153140435732486632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idleSheet_2
+      name: walkUpSheet_2
       rect:
         serializedVersion: 2
         x: 75
         y: 0
         width: 9
-        height: 29
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99659b0e440ee0760800000000000000
-      internalID: 7426119422013167257
+      spriteID: e070fc7f6c81ecbc0800000000000000
+      internalID: -3761041395967654130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idleSheet_3
+      name: walkUpSheet_3
       rect:
         serializedVersion: 2
         x: 107
-        y: 0
+        y: 1
         width: 9
-        height: 29
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,18 +181,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 571f9b05fd658a020800000000000000
-      internalID: 2353226322433143157
+      spriteID: f10a9259814175940800000000000000
+      internalID: 5284714783556870175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idleSheet_4
+      name: walkUpSheet_4
       rect:
         serializedVersion: 2
         x: 139
-        y: 0
+        y: 1
         width: 9
         height: 30
       alignment: 0
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd31034a570149650800000000000000
-      internalID: 6238629481266811871
+      spriteID: 70a6fe0a95c99af60800000000000000
+      internalID: 8046134118040168967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idleSheet_5
+      name: walkUpSheet_5
       rect:
         serializedVersion: 2
         x: 171
         y: 0
         width: 9
-        height: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,8 +223,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7643d7c4eb0e20640800000000000000
-      internalID: 5044841640540058727
+      spriteID: 29d7cdfc3fcc49110800000000000000
+      internalID: 1266862742734405010
       vertices: []
       indices: 
       edges: []
@@ -232,7 +232,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4e05207bd9f964856917d52b0e45807e
+    spriteID: 9d148c48ec06c486c8b1c29d93e643ff
     internalID: 0
     vertices: []
     indices: 

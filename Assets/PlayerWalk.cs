@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerWalk : MonoBehaviour
 {
     public Animator _animator;
+    public float _grabCooldown = 0.0f;
 // Start is called before the first frame update
     void Start()
     {
@@ -41,6 +42,15 @@ public class PlayerWalk : MonoBehaviour
         {
 			p.y -= speed * ts;
         }
+		if(Input.GetKey(KeyCode.Space))
+		{
+            if (_grabCooldown < 0.0f)
+            {
+                _animator.SetTrigger("Toss");
+                _grabCooldown = 0.75f;
+            }
+		}
+        _grabCooldown -= ts;
         transform.position = p;
         transform.localScale = s;
 
